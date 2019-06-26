@@ -8,4 +8,4 @@
 - **마크다운**
 아직 뭘 해야 할지 모르겠음..
 
-!http://app.jjalbang.today/jjCb.jpg
+![원숭이](http://app.jjalbang.today/jjCb.jpg)
